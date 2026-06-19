@@ -20,8 +20,8 @@ If you want to skip the headache and jump straight to printing funding rates, th
 - **Dry-Run Mode:** Safely test the execution logic on live orderbooks without risking a single cent.
 - **Robust Error Handling:** Automatic rollbacks if one leg gets rejected by the exchange.
 
-🔗 **[Grab the Full Python Source Code Here (Whop / Gumroad Link)]**  
-*https://gbsolutions23.gumroad.com/l/fjdsxv*
+🔗 **[Grab the Full Python Source Code Here]**  
+*[https://gbsolutions23.gumroad.com/l/fjdsxv]*
 
 ---
 

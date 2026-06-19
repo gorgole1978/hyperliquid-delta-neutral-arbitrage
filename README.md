@@ -21,7 +21,7 @@ If you want to skip the headache and jump straight to printing funding rates, th
 - **Robust Error Handling:** Automatic rollbacks if one leg gets rejected by the exchange.
 
 🔗 **[Grab the Full Python Source Code Here (Whop / Gumroad Link)]**  
-*(Insert your Whop or Gumroad link here)*
+*https://gbsolutions23.gumroad.com/l/fjdsxv*
 
 ---
 
